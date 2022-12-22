@@ -3,6 +3,7 @@
 VibIn is a Web Application built on M.E.R.N that promotes the production or exchange of information, ideas, career interests, and other kinds of expression through virtual communities and networks. An app that allows you to communicate with others on a local, regional, national, and even international scale. A platform where individuals can connect with others from all around the world, exchange their ideas, and learn about various cultures.
 
 Front-end - [CLICK HERE](https://github.com/AmitSahoo45/Vibin-Frontend) <br/>
+LIVE DEMO - [CLICK HERE](https://vib-in.netlify.app/) <br/>
 Full Stack App - This One!!!
 
 Tech Stack used -
